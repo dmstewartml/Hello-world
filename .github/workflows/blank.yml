@@ -1,0 +1,2 @@
+- name: notify-slack-jira-tickets-deployed
+  uses: reececomo/notify-slack-deployed-jira-tickets@v1.2
